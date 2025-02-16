@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Saichandra Vallakatla</h1>
 <h3 align="center">Passionate Developer | Open Source Contributor | DevOps Enthusiast | Web Development Aficionado | Problem Solver</h3>
 
-- 🔭 I’m currently working on [DSA-Sheets](https://www.dsasheets.online/)
+- 🔭 I’m currently working on [Discover Bioinsights]()
 
-- 🌱 I’m currently learning **DevOps and AWS Cloud**
+- 🌱 I’m currently learning **Azure Cloud**
 
 - 🤝 I’m looking for help with [DSA-Sheets](https://www.dsasheets.online/)
 
