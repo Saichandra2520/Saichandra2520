@@ -121,10 +121,10 @@ class SaichandraVallakatla:
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
-- 📖 [Multi-Agent RAG with LangGraph: Building a Production-Grade Document QA System](https://medium.com/@saichandra) — *Medium*
+- 📖 [Multi-Agent RAG with LangGraph: Building a Production-Grade Document QA System](https://medium.com/@saichandra2520) — *Medium*
 <!-- BLOG-POST-LIST:END -->
 
-> 💡 I write about **LLM engineering, multi-agent systems, and production AI** — follow me on [Medium](https://medium.com/@saichandra) for more.
+> 💡 I write about **LLM engineering, multi-agent systems, and production AI** — follow me on [Medium](https://medium.com/@saichandra2520) for more.
 
 ---
 
