@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Intelligent+Multi-Agent+Systems+🤖;LangGraph+%7C+LangChain+%7C+Azure+OpenAI+⚡;RAG+Pipelines+%7C+Vector+Search+%7C+LLMs+🧠;Gen+AI+Engineer+%40+TCS+Bengaluru+🏙️" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Intelligent+Multi-Agent+Systems;LangGraph+%7C+LangChain+%7C+Azure+OpenAI;RAG+Pipelines+%7C+Vector+Search+%7C+LLMs;Gen+AI+Engineer+%40+TCS+Bengaluru" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -132,9 +132,9 @@ class SaichandraVallakatla:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saichandra)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saichandra-vallakatla/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/saichandra26063)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@saichandra)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@saichandra2520)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saivallakatla1973@gmail.com)
 
 </div>
