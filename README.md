@@ -13,7 +13,7 @@
 <!-- Profile views & followers -->
 ![Profile Views](https://komarev.com/ghpvc/?username=saichandra2520&color=58A6FF&style=flat-square&label=Profile+Views)
 [![GitHub followers](https://img.shields.io/github/followers/saichandra2520?style=flat-square&color=58A6FF&label=Followers)](https://github.com/saichandra2520)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/saichandra)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/saichandra-vallakatla)
 
 </div>
 
